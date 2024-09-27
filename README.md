@@ -1,16 +1,18 @@
-## Hi there 👋
+##   Flαflαyy 🥞
 
-<!--
-**Flaflayss/Flaflayss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+↓ 💼 Atualmente, estou criando um projeto que ajuda a organização dos professores da minha instituição de ensino.
+
+↓🌱 Estudando sobre arte e latim;
+
+↓🩹 Museus são os únicos lugares que consigo esquecer meus problemas;
+
+↓🧤 Só quero saber em que momento o CMSP foi criado; (?????)
+
+↓📫 Contato: flaviadasilvacardoso07@gmail.com ou @fae_awu, se você é interessado por arte!
+
+↓🧶cro Fun factfato
+
 -->
